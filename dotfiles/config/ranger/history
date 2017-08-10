@@ -1,0 +1,6 @@
+open_with vi
+delete 
+search ntp
+open_with 
+open_with vim
+
